@@ -7,6 +7,6 @@
 <title>First Spring Boot Web App</title>
 </head>
 <body>
-Welcome - ${name}
+Welcome : Id - ${obj.aid} Name - ${obj.aname} Language - ${obj.lang}
 </body>
 </html>
