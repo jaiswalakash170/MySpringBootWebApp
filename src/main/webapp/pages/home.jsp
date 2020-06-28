@@ -7,6 +7,6 @@
 <title>First Spring Boot Web App</title>
 </head>
 <body>
-I love JAVA
+Welcome - ${name}
 </body>
 </html>
